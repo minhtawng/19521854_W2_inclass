@@ -1,5 +1,5 @@
 var proj = {
-    Name : "tiensi",
+    Name : "quocminh",
 };
 const fs = require('fs');
 fs.writeFile(`file.json`, JSON.stringify(proj), (error) => {
